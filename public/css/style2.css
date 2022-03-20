@@ -1,0 +1,473 @@
+/* page about us   */
+/* and  */
+/* page contact us  */
+/* <=================> */
+/* contact us  */
+/* .contactus{
+    margin-top: 90px;
+    margin-left: -14px;
+} */
+
+.contactussec1 .contactussec1ab {
+background-image: url(../images/imagall/about-us.png);
+background-size: cover;
+height: 730px;
+
+
+}
+.contactussec1 .contactussec1a{
+     height: 730px;
+    background-color: #2323d6;
+    color: white;
+    padding: 30px 117px 30px 123px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contactussec1 .contactussec1a h1{ 
+font-family: "Roboto Condensed", Sans-serif;
+font-size: 60px;
+font-weight: 600;
+text-transform: capitalize;
+letter-spacing: 1.5px;
+}
+.contactussec1 .contactussec1a p{
+    font-family: "Roboto Condensed", Sans-serif;
+    font-size: 19px;
+    line-height: 1.8em;
+    letter-spacing: 1px;
+
+}
+.contactussec1 .contactussec1a:hover{
+    background-color: #f84d43;
+    transition: all 1s ease-in-out;
+}
+
+
+.contactussec2a{
+    /* display: inline-block; */
+    margin-top: 90px;
+
+}
+.contactussec2a img{
+    margin-top: -2px;
+    width: 70px;
+    display: inline;
+    float: left;
+}  
+.contactussec2b{
+    
+    margin-left: 83px;
+}
+/* <=================> //////////////////////////////////*/
+/* <=================> //////////////////////*/
+/* <=================> /////////////////////////////*/
+
+
+/*  contactussec4*/
+.contactussec4{
+    background-color: #f84d43;
+    /* height: 460px; */
+    padding-bottom: 75px;
+
+}
+.contactussec4 p{
+
+color: rgba(0,0,0,0.72);
+font-family: "Roboto Condensed", Sans-serif;
+font-size: 17px;
+}
+.contactussec4a {
+    text-align: center;
+    padding: 40px 0px 0px 0px;
+    margin-top: 49px;
+}
+.contactussec4a h3{
+color: #000000;
+font-family: "Roboto Condensed", Sans-serif;
+font-size: 40px;
+font-weight: 600;
+text-transform: capitalize;
+letter-spacing: 1.5px;
+}
+.contactussec4  .contactus5{
+display: table-cell;
+padding-right: 15px;
+
+}
+.contactussec4  .contactus5 img{
+    width: 67px;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: rgba(255,255,255,0.77);
+    border-radius: 69px;
+}
+
+.contactussec4  .contactus5b  .contactus5bc{
+    color: #000000;
+    font-family: "Roboto Condensed", Sans-serif;
+    font-size: 22px;
+
+}
+.contactussec4 p{
+    text-align: center;
+}
+/* ======================== */
+/* ==================== */
+/* =========================== */
+/* //////////////////////////////////////////////////////////////////// */
+.contactussec6{
+    background-image: url(../images/imagall/3-2-1.jpg);
+    height: 390px;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+
+}
+.contactussec6  .overlay{
+
+background-color: #020928;
+opacity: 0.7;
+/* transition: background 0.3s, border-radius 0.3s, opacity 0.3s; */
+height: 100%;
+width: 100%;
+top: 0;
+left: 0;
+position: absolute;
+}
+.contactus6{
+    text-align: center;
+    color: white;
+    margin-top: 80px;
+}
+.contactus6 h1{
+    font-weight: 900;
+    font-size: 60px;
+
+}
+.contactus6 hr{
+   
+       margin: 0% 29% 0% 29%;
+       padding: 0px 10px 10px 10px;
+       border-width: 5px 0px 5px 0px;
+       border-color: #f84d43;
+}
+.contactus6 h3{
+    font-size: 48px;
+}
+/* /////////////////////////////// /////////////////////////////////////////////////*/
+/* ///////////////////////// ///////////////////////////////////////////////////*/
+/* ====================================== */
+
+
+
+/* <=================> */
+/* <=================> */
+/* <=================> */
+/* <=================> */
+/* contact us  */
+ /* #map{
+    margin-top: 90px;
+} */
+.aboutus{
+    display: inline-block;
+    border: 1px transparent white;
+    /* width: 230px; */
+    margin-top: 30px;
+
+}
+.shar{
+    position: relative;
+}
+.shar  .aboutus1{
+  position: absolute;
+ right: -100px;
+}
+
+
+/*
+.aboutus p{
+    font-size: 16px;
+    color: black;
+    font-weight: 100;
+    line-height: 11px;
+}
+.aboutus  .icon{
+    font-size: 30px;
+    color: gray;
+    margin-right: 3px;
+}
+
+.aboutus1::before{
+   
+    content: " ";
+    width: 67%;
+    height: 2px;
+    position: absolute;
+    left: -43%;
+    bottom: 32%;
+    background: #00000038;
+    transition: trasform .5 ease-in-out;
+    transform: translateX(-45px);
+    transform: rotate(90deg);
+      
+      
+}
+.aboutus3father{
+    width: 100%;
+    background-color: #f9f9f9;
+    height: 130px;
+    margin-top: 80px;
+}
+.aboutus3father  .aboutus3{
+    display: inline-block;
+    margin-right: 98px;
+}
+.aboutus3father  .aboutus3  .icon2{
+    font-size: 31px;
+    margin: -23px 13px 0px 0px;
+}
+.aboutus4{
+    margin-bottom: -45px;
+}
+.aboutus4  .aboutus4child{
+  
+    text-align: center;
+    color: white;
+    padding-top: 65px;
+} */
+/* <=================> */
+/* <=================> */
+/* <=================> */
+
+
+
+.aboutus1111{
+    border-style: solid;
+    border-width: 0px 1px 0px 0px;
+    border-color: #ebebeb;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 0px 50px 0px  15px;
+
+}
+.aboutus1111 h4{
+    font-size: 40px;
+    font-weight: 900;
+    color: black;
+    margin-bottom: 30px;
+
+
+}
+.aboutus999{
+    display: inline;
+}
+.aboutus999 h4{
+    font-size: 40px;
+    font-weight: 900;
+    color: black;
+    margin-bottom: 30px;
+
+}
+.aboutus888{
+    display: table-cell;
+    width: 253px !important;
+}
+.aboutus888 h5{
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+
+}
+.aboutus888 p{
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 16px;
+    color: #7a7a7a;
+}
+.contactusicons i{
+    font-size: 30px;
+    color: #969696 !important;
+}
+.contactusicons i:hover{
+    color: #00ce1b !important;
+    transition: all .5s ease-in-out;
+}
+
+/* .aboutus999::before{
+   
+    content: " ";
+    width: 319px;
+    height: 2px;
+    position: absolute;
+    left: -27%;
+    bottom: 56%;
+    background: #00000038;
+    transition: trasform .5 ease-in-out;
+    transform: translateX(-45px);
+    transform: rotate(90deg);
+} */
+
+
+
+
+
+/* ////////////////////////////// */
+/* ////////////////////////////////// */
+/* /////////////////////////////// */
+@media (max-width: 1050px){
+    .contactussec1 .contactussec1a{
+        height: 420px;
+        display: flex;
+        justify-content: normal;
+        align-items: normal;
+        padding: 31px 51px 30px 52px;
+
+
+    }
+    .contactussec1 .contactussec1ab {
+        height: 420px;
+
+    }
+    .contactussec1 .contactussec1a h1{ 
+        font-size: 25px;
+        letter-spacing: 1.5px;
+        }
+
+        .contactussec1 .contactussec1a p{
+            font-size: 15px;
+          
+        }
+
+/* 
+        .aboutus999::before{
+            display: none;
+        } */
+
+        
+.aboutus1111{
+    /* border-style: solid;
+    border-width: 0px 1px 0px 0px;
+    border-color: #ebebeb; */
+    border: none;
+   
+
+}
+}
+/* ######################################### */
+/* ########################################## */
+@media (max-width: 768px){
+    .contactussec1 .contactussec1a{
+        height: auto;
+        padding: 30px 69px 30px 69px;
+       display: flex;
+       justify-content: normal;
+    align-items: normal;
+    text-align: center;
+
+   }
+
+   .contactussec1 .contactussec1a h1{ 
+    font-size: 36px;
+    font-weight: 600;
+    text-transform: capitalize;
+    letter-spacing: 1.5px;
+    }
+    .contactussec1 .contactussec1a p{
+        font-size: 16px;
+        line-height: 1.8em;
+        letter-spacing: 0px;
+    }
+
+    .contactussec1 .contactussec1ab {
+        background-size: cover;
+        height: 400px;
+        }
+/* =========================== */
+.contactussec2{
+    text-align: center;
+}
+.contactussec2a{
+    margin-top: 40px;
+    /* text-align: center; */
+
+}
+.contactussec2a img{
+    margin-top: -2px;
+    width: 70px;
+    float: none;
+}  
+.contactussec2b{
+    
+    margin-left: 0px;
+}
+.contactussec4a {
+    text-align: center;
+    padding: 40px 0px 0px 0px;
+    margin-top: 20px;
+}
+.contactussec4a h3{
+        font-size: 20px;
+
+}
+.contactus6 h1{
+    font-weight: 900;
+    font-size: 30px;
+
+}
+.contactus6 h3{
+    font-size: 40px;
+}
+
+.contactus6 hr{
+    margin: 0% 18% 0% 18%;
+}
+
+.contactussec6{
+    height: 360px;
+}
+/* ////////////////// */
+/* ////////// */
+.aboutus888{
+    display: block;
+}
+
+.aboutus999 {
+    margin-top: -20px !important;
+}
+
+.lastsection{
+    /* margin-top: -60px !important; */
+
+}
+}
+/* ###################################################### */
+/* ################################################### */
+@media screen and (max-width: 400px) {
+    .contactussec1 .contactussec1a {
+        height: auto;
+        padding: 28px 33px 30px 36px;
+    }
+    .contactussec1 .contactussec1a h1 {
+        font-size: 26px;
+        font-weight: 600;
+        text-transform: capitalize;
+        letter-spacing: 1.5px;
+    }
+    .contactussec1 .contactussec1a p {
+        font-size: 15px;
+        line-height: 22px;
+        letter-spacing: 0px;
+    }
+    .contactussec1 .contactussec1ab {
+        background-size: cover;
+        height: 315px;
+    }
+    .aboutus999 {
+        margin-top: -20px !important;
+    }
+    
+
+}
+
